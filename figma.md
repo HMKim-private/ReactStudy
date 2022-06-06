@@ -8,4 +8,4 @@ description: 디자이너와 협업 시 Figma로 디자인 된 결과물을 Fron
 
 
 
-### 적용 방
+### 적용 방법
