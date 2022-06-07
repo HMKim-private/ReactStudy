@@ -1,9 +1,5 @@
----
-coverY: 0
----
-
-# Welcome!
+# React clone code
 
 ## Welcome on my world!
 
-This document is intended to leave behind knowledge about the front-end. It will be left with a focus on Korean.
+해당 branch는 React 강의를 수강하며 clone coding을 수행하는 branch 입니다.
