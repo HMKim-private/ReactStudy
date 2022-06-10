@@ -269,4 +269,10 @@ setup(props, {emit}) {
 * 내부적으로도 구조에 변화가 있음. 여러 변화가 예상되지만 주요한 변화로 두 가지 정도를 꼽아 볼 수 있음
   * 렌더링 트리 최적화
     * 기존 V-DOM의 설계는 Vue 옵저버 기반 프록시를 유지하기 위해 상당히 많은 자원을 소모하고 있었음. 모든 Dependency를 V-DOM tree에서 recursive하게 탐색했기 때문인데, v-if와 v-for directive의 모든 dependency tracking을 위해서 필요했던 기능이지만 대부분의 구문들이 static data를 다룬다는 점에서 불필요한 자원 소모라고 판단한 것으로 예측됨
-    * 이를 해결하기 위해서 Vue는 dynamic / static component를 구분하기로&#x20;
+    * 이를 해결하기 위해서 Vue는 dynamic / static component를 구분하기로 함
+
+### 개인적인 느낌
+
+* Vue3로 버전이 upgrade 됨에 따라 가독성, 구조적 효율성 등을 많이 고려한 것으로 보임
+* 다 ui library인 리액트의 일부 표현법 또한 차용 함으로써 리액트에 비해 늦게 출시되었지만 장점들을 가져가는 방법을 취함
+* 아직 Vue3 는 안정적이지 않다는 느낌이 듦. 좀 더 Vue2 를 이용한 개발을 진행하며 Vue3로의 단계별 진입이 필요해 보이며 추후에는 Vue3로 완전 migration이 필요해 보임.
