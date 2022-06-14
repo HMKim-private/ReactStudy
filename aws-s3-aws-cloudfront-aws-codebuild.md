@@ -55,7 +55,7 @@
 * 그리고 CloudWatch의 Event를 통해 빌드를 주기적으로 실행하도록 설정할 수 있음. 코드의 변화가 많은 어플리케이션은 실시간으로 테스트를 하는 것이 중요한데 event rule을 설정하면 원하는 시간마다 빌드를 반복 수행하도록 설정할 수 있음.
 * 그외에도 AWS Lambda를 이용하여 직접 CI / CD 환경을 구축할 수도 있음.
 
-### buildspec.yam 파일 구조
+### buildspec.yaml 파일 구조
 
 * CodeBuild는 buildspec.yaml이라는 파일에 의해 동작함. buildspec.yaml은 코드의 root 경로에 위치해야 하며 다른 이름으로 저장해도 되나 기본은 buildspec.yaml이라는 이름으로 정해져 있기 때문에 보통 이 이름을 사용함. 아래는 buildspec.yaml 파일의 구조 예
 
