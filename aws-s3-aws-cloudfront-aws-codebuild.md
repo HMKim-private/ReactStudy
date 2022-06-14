@@ -78,4 +78,4 @@
 * 도커 기반의 컨테이너를 생성하기 위한 이미지를 설정함
 * (optional) 여러 빌드를 동시에 수행할 때 성능 향상을 위해 cache bucket을 사용할 수 있음
 * 빌드의 결과인 artifacts를 생성하여 s3 bucket에 저장함
-* 빌드의 로그를 s3 bucket이나 cloudwatch를 통해 확인 할 수 있&#x20;
+* 빌드의 로그를 s3 bucket이나 cloudwatch를 통해 확인 할 수 있음&#x20;
