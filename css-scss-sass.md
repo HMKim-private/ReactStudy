@@ -22,12 +22,12 @@ description: CSS를 비롯하여 파생된 SCSS, SASS에 대하여
 * SASS: Syntactically Awesome Style Sheets로 문법적으로 awsome한 스타일 시트
 * SCSS: Sassy CSS로 문법적으로 Sassy한 CSS
 * SCSS가 SASS보다 더 뒤에 나왔고 (SASS3 버전에서 SCSS가 생김) 약간의 문법 차이가 있지만 SCSS가 좀 더 넓은 범용성과 CSS의 호환성의 장점을 가짐. 큰 차이점은 SASS는 중첩으로 들여쓰기를 사용하고 속성 구분은 줄 바꿈을 이용하지만 SCSS의 경우 중괄호로 중첩을 표현하고 세미콜론으로 속성을 구분함
-* 또한 공식 레퍼런스는 SASS보다 CSS와 더 비슷한 SCSS를 선호한다고 함. 또한 다수의 libarary, framework가 SCSS 문법을 활용하며 사용자 수 또한 SASS보다 SCSS가 더 많
+* 또한 공식 레퍼런스는 SASS보다 CSS와 더 비슷한 SCSS를 선호한다고 함. 또한 다수의 libarary, framework가 SCSS 문법을 활용하며 사용자 수 또한 SASS보다 SCSS가 더 많음&#x20;
 
 ### 이들을 사용하는 이유
 
 * CSS가 복잡한 언어는 아니지만 프로젝트의 크기가 커지고 고도화 될 수록 유지보수에 큰 어려움이 생김.&#x20;
-* 기존의 CSS는 불필요한 선택자 (Selector), 연산 기능 한계, 구문 (Statement)의 부재의 문제점이 있고 SASS와 SCSS는 이러한 이슈를 해소 시켜 줄 수 있
+* 기존의 CSS는 불필요한 선택자 (Selector), 연산 기능 한계, 구문 (Statement)의 부재의 문제점이 있고 SASS와 SCSS는 이러한 이슈를 해소 시켜 줄 수 있음&#x20;
 * 통상적으로 SASS보다 SCSS를 많이 사용하는데 SCSS의 경우 CSS 문법과 완벽하게 호환이 되는 장점이 있음. 또한 코드의 가독성과 재사용성을 높여주며 심플한 표기법으로 CSS 구조를 평준화 할 수 있음
 
 ### 제공하는 기능 / 예시
