@@ -65,3 +65,5 @@ description: 주소창에 url을 입력 하였을 때 브라우저에 접속하�
 
 ![브라우저 동작 원리, 출처 =\&nbsp;https://poiemaweb.com/js-browser](.gitbook/assets/브라우저동작원리.png)
 
+* 참고 : [https://bbangson.tistory.com/87](https://bbangson.tistory.com/87)
+
