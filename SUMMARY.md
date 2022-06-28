@@ -18,3 +18,4 @@
 * [웹 표준, 웹 접근성, 웹 호환성](undefined.md)
 * [브라우저 동작 방식](undefined-1.md)
 * [ES 6 와 ES 5 의 차이점](es-6-es-5.md)
+* [상속과 프로토타입](undefined-2.md)
