@@ -24,3 +24,5 @@
 * [BFF(Back-end For Front-end)](bff-back-end-for-front-end.md)
 * [RXJS](rxjs.md)
 * [Cypress](cypress.md)
+* [CSR vs SSR](csr-vs-ssr.md)
+* [REMIX js](remix-js.md)
